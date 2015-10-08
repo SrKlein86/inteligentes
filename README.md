@@ -1,2 +1,0 @@
-# inteligentes
-Sistemas Inteligentes UCLM
